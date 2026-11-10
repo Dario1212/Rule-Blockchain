@@ -16,4 +16,4 @@ This project explores the ethical challenges posed by the use of **blockchain te
 
 Research Report link: https://docs.google.com/document/d/1V99qS5_IpVxfZRq1FpiOTZ27IWGDAjbM6T4yI0tE1x4/edit?usp=sharing
 
-Presentation link:
+Presentation link: https://docs.google.com/presentation/d/1FMwKmeTSpHxpWM16UTy7x_Op9HejUj0STM9LtyQRMYc/edit?usp=sharing
